@@ -18,7 +18,7 @@ pip install pygame requests
 
 
 
-نحوه اجرا
+##نحوه اجرا
 
 1. ترمینال یا cmd را باز کنید  
 
@@ -27,5 +27,6 @@ pip install pygame requests
 3. دستور زیر را اجرا کنید
 
 python game.py
+
 
 
